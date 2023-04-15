@@ -1,2 +1,3 @@
 # Website_Booking_Movie_Online
- my first project
+ it's my first project
+ using jsp and servlet to build web project
